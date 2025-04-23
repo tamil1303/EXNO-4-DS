@@ -29,7 +29,7 @@ import pandas as pd
 import numpy as np
 ```
 ```
-df=pd.read_csv("C:\\Users\\priya\\OneDrive\\Documents\\bmi (1).csv")
+df=pd.read_csv("/content/bmi.csv")
 df
 ```
 ![image](https://github.com/user-attachments/assets/a66652f9-c881-4a86-9d60-f92810b15c79)
